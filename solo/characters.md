@@ -12,7 +12,7 @@ nav_order: 1
 - `Koncepcja ogólna`: Wędrowny mechanik
 - `Utrapienie`: Automatyczne archiwizowanie pamięci krótkoterminowej
 - `Aspekt 1`: Plecak pełen narzędzi i materiałów
-- `Aspekt 2`:
+- `Aspekt 2`: Zapewnić poprawne działanie sieci energetycznej w sektorze **67xdjkw**
 - `Aspekt 3`:
   
 ### Postawy
@@ -26,9 +26,9 @@ nav_order: 1
 
 ### Sztuczki
 
-1. Sztuczka 1
-2. Sztuczka 2
-3. Sztuczka 3
+1. **Pole anty-Hekath**: Emitujesz fale o niskiej częstotliwości, które przeszkadzają Hekathom. Gdy tłum Hekathów zadaje ci obrażenia, otrzymuje w zamian 2 punkty presji.
+2. **Empatyczna więź**: Otrzymujesz +2 przy tworzeniu przewagi po to aby pomóc jednemu sojusznikowi. Kiedy to robisz, wyjaśnij, dlaczego jest to dla ciebie tak ważne. Nie możesz używać darmowych wywołań nowego aspektu dla siebie.
+3. ..... (do uzupełnienia)
 
 ### Stan
 

@@ -9,20 +9,14 @@ nav_order: 1
 
 ## Heisenberg
 
-- `Koncepcja ogólna`: Wędrowny mechanik
-- `Utrapienie`: Automatyczne archiwizowanie pamięci krótkoterminowej
-- `Aspekt 1`: Plecak pełen narzędzi i materiałów
-- `Aspekt 2`: Zapewnić poprawne działanie sieci energetycznej w sektorze **67xdjkw**
-- `Aspekt 3`:
-  
-### Postawy
-
-- `Arsenał`: słaby(+0)
-- `Siła`: przeciętny(+1)
-- `Interfejs`: niezły(+2)
-- `Systematyczność`: niezły(+2)
-- `Człowieczeństwo`: przeciętny(+1)
-- `Technologia`: dobry (+3)
+| Aspekty                                                                    | Postawy                           |
+| -------------------------------------------------------------------------- | --------------------------------- |
+| `Koncepcja ogólna:`  Wędrowny mechanik                                     | `Arsenał:` słaby(+0)              |
+| `Utrapienie:`  Przypadkowe archiwizowanie pamięci krótkoterminowej         | `Siła:` przeciętny(+1)            |
+| `Aspekt 1:` Plecak pełen narzędzi i materiałów                             | `Interfejs:` niezły(+2)           |
+| `Aspekt 2:`  Sieć energetyczna sektora **67xdjkw** musi działać poprawnie. | `Systematyczność:` przeciętny(+1)     |
+| `Aspekt 3:`  ...                                                           | `Człowieczeństwo:` niezły(+2) |
+| --                                                                         | `Technologia:` dobry (+3)         |
 
 ### Sztuczki
 
@@ -30,19 +24,12 @@ nav_order: 1
 2. **Empatyczna więź**: Otrzymujesz +2 przy tworzeniu przewagi po to aby pomóc jednemu sojusznikowi. Kiedy to robisz, wyjaśnij, dlaczego jest to dla ciebie tak ważne. Nie możesz używać darmowych wywołań nowego aspektu dla siebie.
 3. ..... (do uzupełnienia)
 
-### Stan
 
-|                   | aktualna | maks |
-| ----------------- | -------- | ---- |
-| Odświeżanie       | 3        |      |
-| Presja fizyczna   | 4        | 4    |
-| Presja psychiczna | 3        | 3    |
+| Stan              |     | Konsekwencje    |     |
+| ----------------- | --- | --------------- | --- |
+| Punkty losu       | 3/3 | Łagodna (2)     |     |
+| Presja fizyczna   | 4/4 | Umiarkowana (4) |     |
+| Presja psychiczna | 3/3 | Dotkliwa (6)    |     |
+|                   |     | Krytyczna (8)   |     |
 
 
-
-| Konsekwencje    |     |
-| --------------- | --- |
-| Łagodna (2)     |     |
-| Umiarkowana (4) |     |
-| Dotkliwa (6)    |     |
-| Krytyczna (8)   |     |

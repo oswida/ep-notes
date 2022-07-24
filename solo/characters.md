@@ -33,3 +33,50 @@ nav_order: 1
 |                   |     | Krytyczna (8)   |     |
 
 
+## Siostry
+
+### Alma
+
+| Postawy                    |                               |
+| -------------------------- | ----------------------------- |
+| `Ukrywanie:` słaby(+0)     | `Człowieczeństwo:` niezły(+2) |
+| `Szybkość:` przeciętny(+1) | `Wytrwałość:` niezły(+2)      |
+| `Adaptacja:` dobry(+3)     | `Technologia:` przeciętny(+1) |
+
+**Aspekty**:  *Świat nie jest taki zły jak się wydaje*.
+
+
+| Stan            |     | Konsekwencje |     |
+| --------------- | --- | ------------ | --- |
+| Presja fizyczna | 2/2 | Łagodna (2)  |     |
+
+
+### Mira
+
+| Postawy                    |                                   |
+| -------------------------- | --------------------------------- |
+| `Ukrywanie:` dobry(+3)     | `Człowieczeństwo:` przeciętny(+1) |
+| `Szybkość:` przeciętny(+1) | `Wytrwałość:` niezły(+2)          |
+| `Adaptacja:` niezły(+2)    | `Technologia:` słaby(+0)          |
+
+**Aspekty**:  *Jak nie przewidziałeś kłopotów, sam sobie jesteś winien*.
+
+
+| Stan            |     | Konsekwencje |     |
+| --------------- | --- | ------------ | --- |
+| Presja fizyczna | 2/2 | Łagodna (2)  |     |
+
+### Luba
+
+| Postawy                     |                              |
+| --------------------------- | ---------------------------- |
+| `Ukrywanie:` przeciętny(+1) | `Człowieczeństwo:` dobry(+3) |
+| `Szybkość:` słaby(+0)       | `Wytrwałość:` przeciętny(+1) |
+| `Adaptacja:` niezły(+2)     | `Technologia:` niezły(+2)    |
+
+**Aspekty**:  *Spokojnie, najpierw musimy to przemyśleć.*
+
+
+| Stan            |     | Konsekwencje |     |
+| --------------- | --- | ------------ | --- |
+| Presja fizyczna | 2/2 | Łagodna (2)  |     |
